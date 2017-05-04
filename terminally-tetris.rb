@@ -1,8 +1,8 @@
 class TerminallyTetris < Formula
-  desc "Play Tetris in the Terminal"
+  desc "It's everything you could want from a 1984 Russian-made video game in the comfort of your shell"
   homepage "https://github.com/thecardkid/terminally-tetris"
-  url "https://github.com/thecardkid/terminally-tetris/archive/v1.1.0.tar.gz"
-  sha256 "f1777b45233c0276dd86478cb49c27e28066a1b5750284a84554f71ed1c2e6da"
+  url "https://github.com/thecardkid/terminally-tetris/archive/v1.2.0.tar.gz"
+  sha256 "8aa19c085736231d419fe1ef50c11be4d563df7f3f5add04a10851569144cc22"
 
   depends_on "ncurses" => :build
 
